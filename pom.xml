@@ -14,7 +14,7 @@
     <name>springboot-init</name>
     <description>springboot-init</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
 
     <dependencies>
